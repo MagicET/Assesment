@@ -1,0 +1,41 @@
+body {
+    color: #FDFFFF;
+    background-color: #04A6EB;
+    font-family: YuGothic,'Yu Gothic',sans-serif;
+    text-align:center;
+}
+/*.btn-flat-border {
+    display: inline-block;
+    padding: 0.3em 1em;
+    text-decoration: none;
+    color: #FDFFFF;
+    border: solid 2px #FDFFFF;
+    border-radius: 3px;
+    transition: .4s;
+  }*/
+
+.btn-flat-border {
+    color: #FDFFFF;
+    border: solid 2px #FDFFFF;
+    border-radius: 5px;
+    color: #FDFFFF;
+    padding: 0.3em 1em;
+    text-decoration: none;
+    transition: .4s;
+    height: 20px;
+}
+  
+  .btn-flat-border:hover {
+    background: #FDFFFF;
+    color: #04A6EB;
+    transition: .4s;
+  }
+#userName {
+    padding: 0.3em 1em;
+    text-decoration: none;
+    color: #04A6EB;
+    border: solid 2px #FDFFFF;
+    border-radius: 5px;
+    background-color: #FDFFFF;
+    height: 20px;
+}
